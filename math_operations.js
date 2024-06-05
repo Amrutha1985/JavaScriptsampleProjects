@@ -1,0 +1,12 @@
+var num1=12;
+var num2=10;
+var add=num1+num2;
+var sub=num1-num2;
+var mul=num1*num2;
+var div=num1/num2;
+var moduloes=num1%num2;
+console.log("Adding numbers: "+add);
+console.log("subtracting numbers: "+sub);
+console.log("multiplying numbers: "+mul);
+console.log("dividing: "+div);
+console.log("mod numbers: "+moduloes);
